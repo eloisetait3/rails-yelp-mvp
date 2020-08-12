@@ -5,3 +5,6 @@ Rails.application.routes.draw do
   end
   root to: 'restaurants#index'
 end
+
+# get rest id not just id
+# simple form pass both arrays in
